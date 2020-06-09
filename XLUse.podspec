@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'XLUse'
-    s.version      = '1.0.0'
+    s.version      = '1.0.2'
     s.summary      = 'xinle first use'
     s.homepage     = 'https://github.com/xinle13/XLUse'
     s.license      = 'MIT'
